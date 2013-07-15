@@ -1,4 +1,4 @@
 gimp-tiltshift
 ==============
 
-Nothing to see here yet.
+Please move on, nothing to see here. YET ;-)
